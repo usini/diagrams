@@ -5,7 +5,7 @@ by [µsini](https://twitter/m4dnerd)
 ✔️ All diagrams are free to use without attribution (Public Domain)   
 ❌ Diagrams are not up-to-scale   
 
-📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
+# 📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -26,7 +26,7 @@ by [µsini](https://twitter/m4dnerd)
 ### audio_dac_I2S_gy_pcm5102.svg
 ![audio_dac_I2S_gy_pcm5102.svg](Audio/audio_dac_I2S_gy_pcm5102.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Boards
 ### prototyping_board_90_70mm.svg
 ![prototyping_board_90_70mm.svg](Boards/prototyping_board_90_70mm.svg) 
@@ -60,7 +60,7 @@ by [µsini](https://twitter/m4dnerd)
 ### wemos_mini_pro.svg
 ![wemos_mini_pro.svg](Boards/esp8266/wemos_mini_pro.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Communication
 ### bluetooth_hc06.svg
 ![bluetooth_hc06.svg](Communication/bluetooth_hc06.svg) 
@@ -81,10 +81,8 @@ by [µsini](https://twitter/m4dnerd)
 ### rfm95.svg
 ![rfm95.svg](Communication/radio/rfm95.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Controls
-### fanthome_controller.svg
-![fanthome_controller.svg](Controls/fanthome_controller.svg) 
 ### potentiometer.svg
 ![potentiometer.svg](Controls/potentiometer.svg) 
 ### rfid_rc522.svg
@@ -94,8 +92,6 @@ by [µsini](https://twitter/m4dnerd)
 ## Controls/buttons
 ### button_silicone_8mm.svg
 ![button_silicone_8mm.svg](Controls/buttons/button_silicone_8mm.svg) 
-### button_tactile_12mm.svg
-![button_tactile_12mm.svg](Controls/buttons/button_tactile_12mm.svg) 
 ### keypad_16keys.svg
 ![keypad_16keys.svg](Controls/buttons/keypad_16keys.svg) 
 ### veroboard_4buttons_12mm.svg
@@ -121,7 +117,7 @@ by [µsini](https://twitter/m4dnerd)
 ### usbhost_mini_wemosmini.svg
 ![usbhost_mini_wemosmini.svg](Controls/usbhost/usbhost_mini_wemosmini.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Displays
 ### oled_0.91_128x32.svg
 ![oled_0.91_128x32.svg](Displays/oled_0.91_128x32.svg) 
@@ -147,7 +143,7 @@ by [µsini](https://twitter/m4dnerd)
 ### tft__st7789_wemos_mini.svg
 ![tft__st7789_wemos_mini.svg](Displays/tft/tft__st7789_wemos_mini.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Icons
 ### icon-base.svg
 ![icon-base.svg](Icons/icon-base.svg) 
@@ -189,14 +185,14 @@ by [µsini](https://twitter/m4dnerd)
 ### icon-sensor.svg
 ![icon-sensor.svg](Icons/sensors/icon-sensor.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Motor
 ### pca9685.svg
 ![pca9685.svg](Motor/pca9685.svg) 
 ### servo_ideaw_mg995.svg
 ![servo_ideaw_mg995.svg](Motor/servo_ideaw_mg995.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # PowerSupply
 ### battery_lithium_ion_2000mah.svg
 ![battery_lithium_ion_2000mah.svg](PowerSupply/battery_lithium_ion_2000mah.svg) 
@@ -209,7 +205,7 @@ by [µsini](https://twitter/m4dnerd)
 ### level_converter.svg
 ![level_converter.svg](PowerSupply/level_converter.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Sensors
 ### distance_hcsr04.svg
 ![distance_hcsr04.svg](Sensors/distance_hcsr04.svg) 
@@ -263,7 +259,7 @@ by [µsini](https://twitter/m4dnerd)
 ### temperature_tmp36.svg
 ![temperature_tmp36.svg](Sensors/temperature/temperature_tmp36.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Storage
 ### 16GB_MICRO_SD_CARD.svg
 ![16GB_MICRO_SD_CARD.svg](Storage/16GB_MICRO_SD_CARD.svg) 
@@ -272,7 +268,7 @@ by [µsini](https://twitter/m4dnerd)
 ### sd_card_slot.svg
 ![sd_card_slot.svg](Storage/sd_card_slot.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 
 # Tools
 ### 3D_PRINTER.svg
 ![3D_PRINTER.svg](Tools/3D_PRINTER.svg) 
@@ -287,4 +283,4 @@ by [µsini](https://twitter/m4dnerd)
 ### WIRE_CUTTER.svg
 ![WIRE_CUTTER.svg](Tools/WIRE_CUTTER.svg) 
 
- [TOP](#table-of-contents) 
+ #### [TOP](#table-of-contents) 

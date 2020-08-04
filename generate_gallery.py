@@ -13,7 +13,7 @@ by [µsini](https://twitter/m4dnerd)
 ✔️ All diagrams are free to use without attribution (Public Domain)   
 ❌ Diagrams are not up-to-scale   
 
-📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
+# 📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -24,9 +24,13 @@ f.write(header)
 folders = [x for x in os.listdir() if not os.path.isfile(x)]
 
 for folder in folders:
+    if ".git" in folder:
+        continue
     f.write("- [" + folder + "](#" + folder + ")\n")
 
 for folder in folders:
+    if ".git" in folder:
+        continue
     f.write("# " + folder + "\n")
     print(folder)
 
@@ -47,7 +51,7 @@ for folder in folders:
             f.write("### " + svg_file + "\n")
             f.write("![" + svg_file + "](" + folder + "/" + subfolder + "/" + svg_file + ") \n")       
 
-    f.write("\n [TOP](#table-of-contents) \n")
+    f.write("\n #### [TOP](#table-of-contents) \n")
 f.close()
 
 
