@@ -6,7 +6,7 @@ by [µsini](https://twitter/m4dnerd)
 ❌ Diagrams are not up-to-scale   
 
 # 📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
-# ❓ Need a diagram ? Ask it on https://github.com/usini/issues
+# ❓ Need a diagram ? Ask it [here](https://github.com/usini/issues)
 # [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O420F33)
 
 # Table of Contents
