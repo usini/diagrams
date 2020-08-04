@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.084476mm"
+   height="15.100731mm"
+   viewBox="0 0 53.084477 15.100731"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="oled_0.91_128x32.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="88.631788"
+     inkscape:cy="57.315985"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.079427,-113.00528)">
+    <g
+       transform="matrix(0.38566558,0,0,0.38566558,23.965026,72.136644)"
+       id="g15919">
+      <rect
+         y="105.96911"
+         x="26.225834"
+         height="39.154987"
+         width="132.83295"
+         id="rect21"
+         style="fill:#084d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <ellipse
+         ry="2.80633"
+         rx="3.3408689"
+         cy="112.8513"
+         cx="31.270536"
+         id="path23"
+         style="fill:#787564;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <ellipse
+         ry="2.80633"
+         rx="3.3408689"
+         cy="121.13666"
+         cx="31.404171"
+         id="path23-7"
+         style="fill:#787564;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <ellipse
+         ry="2.80633"
+         rx="3.3408689"
+         cy="129.422"
+         cx="31.537806"
+         id="path23-2"
+         style="fill:#787564;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <ellipse
+         ry="2.80633"
+         rx="3.3408689"
+         cy="137.57372"
+         cx="31.805075"
+         id="path23-4"
+         style="fill:#787564;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <text
+         transform="rotate(-90)"
+         id="text54"
+         y="40.773228"
+         x="-116.20203"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;fill:#ffffff;stroke-width:0.26458332"
+           y="40.773228"
+           x="-116.20203"
+           id="tspan52"
+           sodipodi:role="line">SDA</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text54-8"
+         y="40.968468"
+         x="-124.68124"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;fill:#ffffff;stroke-width:0.26458332"
+           y="40.968468"
+           x="-124.68124"
+           id="tspan52-6"
+           sodipodi:role="line">SCK</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text54-6"
+         y="40.901646"
+         x="-133.11646"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;fill:#ffffff;stroke-width:0.26458332"
+           y="40.901646"
+           x="-133.11646"
+           id="tspan52-4"
+           sodipodi:role="line">VCC</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text54-80"
+         y="40.901646"
+         x="-142.7477"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;fill:#ffffff;stroke-width:0.26458332"
+           y="40.901646"
+           x="-142.7477"
+           id="tspan52-68"
+           sodipodi:role="line">GND</tspan></text>
+      <rect
+         y="107.63954"
+         x="48.242146"
+         height="29.399649"
+         width="92.87616"
+         id="rect90"
+         style="fill:#0a111b;fill-opacity:1;stroke:none;stroke-width:0.76499999;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="137.03918"
+         x="48.242146"
+         height="7.6171846"
+         width="92.87616"
+         id="rect92"
+         style="fill:#3b443c;fill-opacity:1;stroke:none;stroke-width:0.56418878;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         y="107.63953"
+         x="141.1183"
+         height="37.016827"
+         width="12.962581"
+         id="rect94"
+         style="fill:#0c0a0b;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <rect
+         y="117.1276"
+         x="153.81361"
+         height="6.0135641"
+         width="10.022608"
+         id="rect96"
+         style="fill:#7c4708;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+      <rect
+         y="135.36874"
+         x="154.01407"
+         height="6.0135641"
+         width="9.8555641"
+         id="rect96-3"
+         style="fill:#7c4708;fill-opacity:1;stroke:none;stroke-width:0.26236919" />
+      <rect
+         y="123.14117"
+         x="153.81361"
+         height="12.294395"
+         width="10.02261"
+         id="rect94-1"
+         style="fill:#0c0a0b;fill-opacity:1;stroke:none;stroke-width:0.13407911" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.63617229px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14090431"
+       x="47.034016"
+       y="121.62797"
+       id="text16092"><tspan
+         sodipodi:role="line"
+         id="tspan16090"
+         x="47.034016"
+         y="121.62797"
+         style="fill:#ffffff;stroke-width:0.14090431">SSD1306</tspan></text>
+  </g>
+</svg>

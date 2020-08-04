@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.9649611mm"
+   height="4.3199539mm"
+   viewBox="0 0 4.964961 4.3199539"
+   version="1.1"
+   id="svg4067"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon-sensor-temp.svg">
+  <defs
+     id="defs4061" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-210.0973"
+     inkscape:cy="149.17916"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4064">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-91.370975,-72.805944)">
+    <g
+       transform="translate(49.028241,61.952152)"
+       id="g73154">
+      <path
+         inkscape:transform-center-x="-3.2709078e-006"
+         inkscape:transform-center-y="-1.2293918e-005"
+         d="m 46.083923,15.153575 -2.48248,0.02017 -1.258709,-2.139806 1.223771,-2.159976 2.482481,-0.02017 1.258709,2.139806 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0862698"
+         sodipodi:arg1="1.0390723"
+         sodipodi:r2="2.4825625"
+         sodipodi:r1="2.4825625"
+         sodipodi:cy="13.013769"
+         sodipodi:cx="44.825214"
+         sodipodi:sides="3"
+         id="path2732-5-4-6-0-8-1"
+         style="opacity:1;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.016148;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <ellipse
+         ry="0.44387475"
+         rx="0.43634394"
+         cy="14.164147"
+         cx="44.04063"
+         id="path13338-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22505736;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccsssscc"
+         inkscape:connector-curvature="0"
+         id="path13338-8-0"
+         d="m 44.661619,14.100285 c 0,0.393688 -0.251087,0.763165 -0.63809,0.763165 -0.387002,0 -0.624523,-0.369488 -0.624523,-0.763165 0,-0.32855 0.319889,-0.397564 0.318362,-0.705696 l -0.008,-1.681865 c -0.0011,-0.234773 0.141275,-0.403273 0.334454,-0.399088 0.17633,0.0034 0.347529,0.155315 0.350077,0.35995 l 0.02146,1.722206 c 0.01205,0.343843 0.236808,0.449966 0.246289,0.704493 z"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.19999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path13360-1"
+         d="m 44.041378,13.734247 -0.0069,-0.988504"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(1.000619,0.99938138)"
+         id="text13364-1"
+         y="12.413184"
+         x="44.47403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.61871397px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:1.61871397px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="12.413184"
+           x="44.47403"
+           id="tspan13362-5"
+           sodipodi:role="line">°C</tspan></text>
+    </g>
+  </g>
+</svg>

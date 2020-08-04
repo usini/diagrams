@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.906347mm"
+   height="34.75732mm"
+   viewBox="0 0 22.906347 34.75732"
+   version="1.1"
+   id="svg1373"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="mini_usb_drive_32_go.svg">
+  <defs
+     id="defs1367" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="43.287596"
+     inkscape:cy="65.683145"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1062"
+     inkscape:window-height="770"
+     inkscape:window-x="213"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1987"
+       originx="-255.53696"
+       originy="19.861954" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1370">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-255.53697,-282.10463)">
+    <g
+       id="layer1-55"
+       inkscape:label="Calque 1"
+       transform="matrix(0.31543413,0,0,0.31543413,253.06626,280.51123)">
+      <rect
+         transform="matrix(0.00810073,-0.99996719,0.99998773,0.0049544,0,0)"
+         y="18.899511"
+         x="-114.36652"
+         height="54.102028"
+         width="59.59671"
+         id="rect1929"
+         style="opacity:1;fill:#ccbfaf;fill-opacity:1;stroke:#ccbfaf;stroke-width:1.02665353;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-89.637019)"
+         ry="10.423512"
+         y="10.527989"
+         x="-54.713432"
+         height="68.246307"
+         width="49.270164"
+         id="rect1929-4"
+         style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.04842544;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-89.637019)"
+         ry="0"
+         y="70.270866"
+         x="-81.794998"
+         height="9.8889723"
+         width="37.417732"
+         id="rect1946-8"
+         style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.14100003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-89.637019)"
+         ry="7.0233498"
+         y="21.74419"
+         x="-79.958038"
+         height="43.845234"
+         width="21.922617"
+         id="rect1963"
+         style="opacity:1;fill:#d0c8bd;fill-opacity:1;stroke:#d3cbc0;stroke-width:1.14099991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="rotate(0.60675618)"
+         id="text1967"
+         y="72.806259"
+         x="30.156145"
+         style="font-style:normal;font-weight:normal;font-size:9.50371742px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.59398234;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.59398234;stroke-opacity:1"
+           y="72.806259"
+           x="30.156145"
+           id="tspan1965"
+           sodipodi:role="line">32GB</tspan></text>
+      <rect
+         transform="rotate(-89.637019)"
+         ry="0"
+         y="8.9270601"
+         x="-82.091278"
+         height="9.8889723"
+         width="37.417732"
+         id="rect1946-8-4"
+         style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.14100015;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="68.524635mm"
+   height="63.410656mm"
+   viewBox="0 0 68.524635 63.410656"
+   version="1.1"
+   id="svg5478"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="battery_lithium_ion_2000mah.svg">
+  <defs
+     id="defs5472" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="342.867"
+     inkscape:cy="-373.9099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="764"
+     inkscape:window-height="386"
+     inkscape:window-x="256"
+     inkscape:window-y="307"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5475">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.849464,-17.268554)">
+    <g
+       id="layer1-97"
+       inkscape:label="Calque 1"
+       transform="matrix(0.40036329,0,0,0.40036329,37.234807,14.813871)">
+      <g
+         id="g14140-7"
+         style="display:inline;opacity:1"
+         transform="matrix(5.2630371,0,0,5.2630371,-840.98057,-141.13445)">
+        <rect
+           style="display:inline;opacity:1;fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.13341844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13527-5"
+           width="24.936216"
+           height="16.854744"
+           x="170.53905"
+           y="41.198978"
+           rx="0"
+           ry="0" />
+        <path
+           style="display:inline;opacity:1;fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.10457836;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 195.50492,42.678658 0.41923,-0.688748 -0.0299,-0.80853 h -0.41924 z"
+           id="path13544-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;opacity:1;fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.16769509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 195.48994,56.577249 0.41924,0.688747 -0.0299,0.80853 h -0.41924 z"
+           id="path13544-1-9"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="display:inline;opacity:1;fill:#dcb500;fill-opacity:1;stroke:none;stroke-width:0.10182238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13561-0"
+           width="2.7131178"
+           height="16.984869"
+           x="167.82501"
+           y="40.957874" />
+        <rect
+           style="display:inline;opacity:1;fill:#dcb500;fill-opacity:1;stroke:none;stroke-width:0.03983601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13561-9-5"
+           width="0.44588694"
+           height="15.818724"
+           x="167.37053"
+           y="41.752697" />
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.48486328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 167.35754,49.228524 c -0.32468,-0.04688 -0.64937,-0.0736 -0.97404,-0.338796 -0.80873,-1.57687 -1.77212,-2.728397 -2.15982,-5.463072 l -0.1694,-3.726747 c -0.001,-0.94688 0.30171,-1.589895 0.50819,-2.329218 0.8629,-1.554198 1.75912,-3.081743 3.17621,-4.192593 2.75271,-1.341064 4.72514,-3.202318 8.25813,-4.023192 2.28687,-0.249881 4.57374,-0.662199 6.86061,-0.381145 1.20131,0.247029 2.50454,0.324221 3.38795,1.101084 2.27096,1.391736 3.08355,2.991811 4.61608,4.489037"
+           id="path13602-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:#de6550;stroke-width:0.49121723;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 167.29502,49.634276 c -1.18033,-0.131567 -1.04783,-0.370026 -1.38117,-0.635145 -0.78794,-1.491725 -1.77703,-2.897022 -2.17507,-5.630919 l -0.0892,-4.149183 c 0.0836,-0.946613 0.47916,-1.547095 0.69114,-2.286208 0.92827,-1.638455 1.63664,-2.911471 3.09153,-4.022005 2.74144,-1.51008 4.96581,-3.266437 8.59304,-4.08708 2.28797,-0.519318 4.55114,-0.759112 6.899,-0.478138 1.26331,0.157122 2.51145,0.38402 3.56816,1.100771 2.33153,1.391341 3.13585,3.020908 4.67931,4.607546"
+           id="path13602-9-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+        <rect
+           style="display:inline;opacity:1;fill:#e4e6e3;fill-opacity:1;stroke:none;stroke-width:0.48486328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13637-6"
+           width="2.2159708"
+           height="3.3539019"
+           x="110.77451"
+           y="158.24295"
+           transform="rotate(-44.535214)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1.68861187px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10553824"
+           x="176.18558"
+           y="49.499046"
+           id="text13645-1"><tspan
+             sodipodi:role="line"
+             id="tspan13643-1"
+             x="176.18558"
+             y="49.499046"
+             style="stroke-width:0.10553824">- PKCELL LP803860</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1.6334672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1020917"
+           x="175.76224"
+           y="51.334465"
+           id="text13649-9"><tspan
+             sodipodi:role="line"
+             id="tspan13647-1"
+             x="175.76224"
+             y="51.334465"
+             style="stroke-width:0.1020917">+ 3.7 2000mAh</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

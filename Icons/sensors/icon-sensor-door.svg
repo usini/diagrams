@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.0985956mm"
+   height="4.4362273mm"
+   viewBox="0 0 5.0985956 4.4362273"
+   version="1.1"
+   id="svg4067"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon-sensor-door.svg">
+  <defs
+     id="defs4061" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="30.06028"
+     inkscape:cy="-69.22161"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4064">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.967606,-14.904465)">
+    <g
+       transform="translate(17.388726,3.7751222)"
+       id="g73102">
+      <path
+         inkscape:transform-center-x="-3.2709078e-006"
+         inkscape:transform-center-y="-1.2293918e-005"
+         d="m 17.420766,15.544857 -2.549298,0.02071 -1.292588,-2.1974 1.25671,-2.218114 2.549298,-0.02071 1.292587,2.1974 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0862698"
+         sodipodi:arg1="1.0390723"
+         sodipodi:r2="2.549382"
+         sodipodi:r1="2.549382"
+         sodipodi:cy="13.347457"
+         sodipodi:cx="16.128178"
+         sodipodi:sides="3"
+         id="path2732-5-4-6-9"
+         style="opacity:1;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.01658263;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         ry="0.14756744"
+         rx="0.027078493"
+         y="11.657302"
+         x="15.069881"
+         height="3.4554319"
+         width="2.1135719"
+         id="rect2996-5-8-2"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45213175;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.23595195"
+         cy="13.334053"
+         cx="15.513841"
+         id="path73040"
+         style="fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

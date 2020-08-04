@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933332"
+   version="1.1"
+   id="svg1065"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon-storage.svg">
+  <defs
+     id="defs1059" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="25.037174"
+     inkscape:cy="34.124909"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g10065-7-1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1012"
+     inkscape:window-height="689"
+     inkscape:window-x="200"
+     inkscape:window-y="162"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata1062">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(19.410892,-30.192793)">
+    <g
+       id="g10065-7-1"
+       transform="matrix(4.755698,0,0,4.8539504,-208.51503,-437.53116)">
+      <g
+         transform="matrix(0.54690688,0,0,0.5325841,-41.381751,95.719995)"
+         id="g1922">
+        <path
+           d="m 153.26531,7.325516 -3.07584,0.025425 -1.58752,-2.6442241 1.4883,-2.745925 3.07583,-0.025425 1.58753,2.6442241 z"
+           style="fill:#6c6753;stroke-width:1.90860736"
+           id="path51055-8-0-6"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(2.3934993e-4,0.17499581,-0.17499581,2.3934993e-4,153.46408,-25.342113)"
+           style="fill:#241f1c;fill-opacity:1;stroke:none"
+           id="g1898">
+          <path
+             inkscape:connector-curvature="0"
+             id="path13076"
+             d="m 162.0804,19.203534 c -1.64461,-0.02773 -1.67615,-0.03026 -1.93312,-0.157136 -0.35279,-0.174143 -0.73399,-0.565994 -0.90448,-0.929782 l -0.14044,-0.299678 -0.0155,-4.349501 -0.0155,-4.3495102 h 12.0181 12.0181 v 3.9184762 3.918475 l -1.26697,5.1e-5 c -0.69682,3.1e-5 -2.5146,0.01548 -4.03951,0.03452 l -2.77254,0.03452 -0.98444,1.089924 -0.98443,1.089917 -0.91427,-0.01415 -0.91428,-0.01415 -0.12297,-0.365725 c -0.10218,-0.303731 -0.16941,-0.407406 -0.39663,-0.611631 l -0.27367,-0.245906 -0.83593,-0.0024 -0.83595,-0.0024 -0.8098,0.650983 -0.80983,0.650985 -1.698,-0.0091 c -0.9339,-0.0046 -2.45035,-0.02167 -3.3699,-0.03715 z"
+             style="opacity:1;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:0.03258196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:label="Grey Part" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13078"
+             d="m 159.08708,6.5122312 0.0155,-2.7049555 0.1714,-0.3480543 c 0.20855,-0.4234132 0.57615,-0.7711446 0.99361,-0.939823 l 0.29789,-0.1203566 h 10.55376 10.55376 l 0.34788,0.1648324 c 0.41709,0.1976086 0.74278,0.5159829 0.92707,0.9062306 l 0.1358,0.2873541 0.0155,2.7298716 0.0155,2.7298695 h -12.0202 -12.02022 z"
+             style="opacity:1;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:0.03258196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:label="Red Part" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

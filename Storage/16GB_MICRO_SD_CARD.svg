@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.076027mm"
+   height="16.882917mm"
+   viewBox="0 0 24.076027 16.882917"
+   version="1.1"
+   id="svg9089"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="16GB_MICRO_SD_CARD.svg">
+  <defs
+     id="defs9083" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.061871843"
+     inkscape:cx="-81.395786"
+     inkscape:cy="-95.700205"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g14329"
+     showgrid="false"
+     inkscape:window-width="764"
+     inkscape:window-height="386"
+     inkscape:window-x="231"
+     inkscape:window-y="305"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9086">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline;opacity:1"
+     id="g14329"
+     transform="matrix(14.962955,0,0,14.962955,-1048.4133,-798.97254)"
+     inkscape:label="MicroSD">
+    <g
+       inkscape:label="MicroSD"
+       transform="matrix(0.14780663,0,0,0.14780663,59.308727,45.974531)"
+       id="g14329-3"
+       style="display:inline;opacity:1">
+      <path
+         inkscape:label="Grey Part"
+         style="opacity:1;fill:#787880;fill-opacity:1;stroke:#ffffff;stroke-width:0.01473214;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.155828,57.821078 c -0.74362,-0.01254 -0.75788,-0.01368 -0.87407,-0.07105 -0.15952,-0.07874 -0.33188,-0.255918 -0.40897,-0.420407 l -0.0635,-0.135501 -0.007,-1.966655 -0.007,-1.966659 h 5.43406 5.43406 v 1.771764 1.771764 l -0.57287,2.3e-5 c -0.31507,1.4e-5 -1.13699,0.007 -1.82649,0.01561 l -1.25362,0.01561 -0.44512,0.492816 -0.44512,0.492813 -0.41339,-0.0064 -0.4134,-0.0064 -0.0556,-0.165365 c -0.0462,-0.137334 -0.0766,-0.184211 -0.17934,-0.276553 l -0.12374,-0.111188 -0.37797,-0.0011 -0.37798,-0.0011 -0.36616,0.294346 -0.36617,0.294347 -0.76776,-0.0041 c -0.42227,-0.0021 -1.10794,-0.0098 -1.52372,-0.0168 z"
+         id="path13076"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:label="Red Part"
+         style="opacity:1;fill:#c7282d;fill-opacity:1;stroke:#ffffff;stroke-width:0.01473214;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 72.802378,52.082624 0.007,-1.223063 0.0775,-0.157375 c 0.0943,-0.191449 0.26051,-0.348678 0.44927,-0.424947 l 0.13469,-0.05442 h 4.77195 4.77195 l 0.1573,0.07453 c 0.18859,0.08935 0.33585,0.233305 0.41918,0.409758 l 0.0614,0.129929 0.007,1.234329 0.007,1.234328 h -5.43501 -5.43502 z"
+         id="path13078"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:label="16GB"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.58306849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09894178"
+         x="73.654968"
+         y="54.957169"
+         id="text13082"><tspan
+           sodipodi:role="line"
+           id="tspan13080"
+           x="73.654968"
+           y="54.957169"
+           style="fill:#ffffff;stroke-width:0.09894178">16GB</tspan></text>
+      <text
+         inkscape:label="SD"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.87363654px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05460229"
+         x="62.457748"
+         y="70.742813"
+         id="text13090"
+         transform="scale(1.2842592,0.77865902)"><tspan
+           sodipodi:role="line"
+           id="tspan13088"
+           x="62.457748"
+           y="70.742813"
+           style="fill:#ffffff;stroke-width:0.05460229">SD</tspan></text>
+      <text
+         inkscape:label="Icro"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.93564373px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05847774"
+         x="80.049881"
+         y="54.498985"
+         id="text13094"><tspan
+           sodipodi:role="line"
+           id="tspan13092"
+           x="80.049881"
+           y="54.498985"
+           style="fill:#ffffff;stroke-width:0.05847774">icro</tspan></text>
+      <text
+         inkscape:label="M"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.38425684px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08651605"
+         x="78.988838"
+         y="54.792938"
+         id="text13086"><tspan
+           sodipodi:role="line"
+           id="tspan13084"
+           x="78.988838"
+           y="54.792938"
+           style="fill:#ffffff;stroke-width:0.08651605">M</tspan></text>
+      <text
+         inkscape:label="HC"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.69031078px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.04314443"
+         x="59.831715"
+         y="74.374786"
+         id="text13098"
+         transform="scale(1.3364477,0.74825225)"><tspan
+           sodipodi:role="line"
+           id="tspan13096"
+           x="59.831715"
+           y="74.374786"
+           style="fill:#ffffff;stroke-width:0.04314443">HC I</tspan></text>
+      <text
+         inkscape:label="SDCARD"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1.75975275px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10998455"
+         x="73.226181"
+         y="52.415607"
+         id="text13106"><tspan
+           sodipodi:role="line"
+           id="tspan13104"
+           x="73.226181"
+           y="52.415607"
+           style="fill:#ffffff;stroke-width:0.10998455">SD CARD</tspan></text>
+    </g>
+  </g>
+</svg>
