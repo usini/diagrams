@@ -6,7 +6,7 @@ by [µsini](https://twitter/m4dnerd)
 ❌ Diagrams are not up-to-scale   
 
 # 📥 [Download](https://github.com/usini/diagrams/archive/master.zip) 
-# ❓ Need a diagram ? Ask it [here](https://github.com/usini/diagrams/issues)
+# ❓ Need a diagram ? --> https://github.com/usini/issues
 # [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O420F33)
 
 # Table of Contents
@@ -66,6 +66,8 @@ by [µsini](https://twitter/m4dnerd)
 # Communication
 ### bluetooth_hc06.svg
 ![bluetooth_hc06.svg](Communication/bluetooth_hc06.svg) 
+### ethernet_WIZ550io_ver1_0.svg
+![ethernet_WIZ550io_ver1_0.svg](Communication/ethernet_WIZ550io_ver1_0.svg) 
 ## Communication/ir
 ### infrared_tsop4836.svg
 ![infrared_tsop4836.svg](Communication/ir/infrared_tsop4836.svg) 
