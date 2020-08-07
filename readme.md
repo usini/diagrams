@@ -56,6 +56,8 @@ by [µsini](https://twitter/m4dnerd)
 ![wemos_lolin32.svg](Boards/esp32/wemos_lolin32.svg) 
 ### wemos_lolin_D32.svg
 ![wemos_lolin_D32.svg](Boards/esp32/wemos_lolin_D32.svg) 
+### wemos_lolin_D32_pro.svg
+![wemos_lolin_D32_pro.svg](Boards/esp32/wemos_lolin_D32_pro.svg) 
 ## Boards/esp8266
 ### wemos_D1_mini.svg
 ![wemos_D1_mini.svg](Boards/esp8266/wemos_D1_mini.svg) 
@@ -248,6 +250,8 @@ by [µsini](https://twitter/m4dnerd)
 ### presence_reed_switch.svg
 ![presence_reed_switch.svg](Sensors/presence/presence_reed_switch.svg) 
 ## Sensors/temperature
+### bme680.svg
+![bme680.svg](Sensors/temperature/bme680.svg) 
 ### temperature_altimeter_barometric_adafruit_mpl3115A2.svg
 ![temperature_altimeter_barometric_adafruit_mpl3115A2.svg](Sensors/temperature/temperature_altimeter_barometric_adafruit_mpl3115A2.svg) 
 ### temperature_ds18b20.svg
