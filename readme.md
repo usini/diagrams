@@ -250,8 +250,6 @@ by [µsini](https://twitter/m4dnerd)
 ### presence_reed_switch.svg
 ![presence_reed_switch.svg](Sensors/presence/presence_reed_switch.svg) 
 ## Sensors/temperature
-### bme680.svg
-![bme680.svg](Sensors/temperature/bme680.svg) 
 ### temperature_altimeter_barometric_adafruit_mpl3115A2.svg
 ![temperature_altimeter_barometric_adafruit_mpl3115A2.svg](Sensors/temperature/temperature_altimeter_barometric_adafruit_mpl3115A2.svg) 
 ### temperature_ds18b20.svg
@@ -266,6 +264,8 @@ by [µsini](https://twitter/m4dnerd)
 ![temperature_humidity_sparkfun_si7021.svg](Sensors/temperature/temperature_humidity_sparkfun_si7021.svg) 
 ### temperature_tmp36.svg
 ![temperature_tmp36.svg](Sensors/temperature/temperature_tmp36.svg) 
+### temperature__humidity_barometric_gaz_bme680.svg
+![temperature__humidity_barometric_gaz_bme680.svg](Sensors/temperature/temperature__humidity_barometric_gaz_bme680.svg) 
 
  #### [TOP](#table-of-contents) 
 # Storage
