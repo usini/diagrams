@@ -39,6 +39,8 @@ by [µsini](https://twitter/m4dnerd)
 ![arduino_mkrwan1300.svg](Boards/arduino/arduino_mkrwan1300.svg) 
 ### arduino_uno.svg
 ![arduino_uno.svg](Boards/arduino/arduino_uno.svg) 
+### atmegazero.svg
+![atmegazero.svg](Boards/arduino/atmegazero.svg) 
 ### bsfrance_lora32u4.svg
 ![bsfrance_lora32u4.svg](Boards/arduino/bsfrance_lora32u4.svg) 
 ### digispark_tiny85.svg
