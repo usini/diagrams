@@ -195,6 +195,8 @@ by [µsini](https://twitter/m4dnerd)
 
  #### [TOP](#table-of-contents) 
 # Motor
+### dc_motor.svg
+![dc_motor.svg](Motor/dc_motor.svg) 
 ### pca9685.svg
 ![pca9685.svg](Motor/pca9685.svg) 
 ### servo_ideaw_mg995.svg
@@ -212,6 +214,8 @@ by [µsini](https://twitter/m4dnerd)
 ![connector_micro_JST_2.0.svg](PowerSupply/connector_micro_JST_2.0.svg) 
 ### level_converter.svg
 ![level_converter.svg](PowerSupply/level_converter.svg) 
+### solar_panel.svg
+![solar_panel.svg](PowerSupply/solar_panel.svg) 
 
  #### [TOP](#table-of-contents) 
 # Sensors
