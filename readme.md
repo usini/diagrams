@@ -93,6 +93,8 @@ by [µsini](https://twitter/m4dnerd)
 # Controls
 ### potentiometer.svg
 ![potentiometer.svg](Controls/potentiometer.svg) 
+### relay_12v.svg
+![relay_12v.svg](Controls/relay_12v.svg) 
 ### rfid_rc522.svg
 ![rfid_rc522.svg](Controls/rfid_rc522.svg) 
 ### switch_spdt_slide.svg
