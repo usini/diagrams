@@ -34,6 +34,8 @@ by [µsini](https://twitter/m4dnerd)
 ![prototyping_board_90_70mm.svg](Boards/prototyping_board_90_70mm.svg) 
 ### raspberrypi_zero.svg
 ![raspberrypi_zero.svg](Boards/raspberrypi_zero.svg) 
+### seeeduino_xiao.svg
+![seeeduino_xiao.svg](Boards/seeeduino_xiao.svg) 
 ## Boards/arduino
 ### arduino_mkrwan1300.svg
 ![arduino_mkrwan1300.svg](Boards/arduino/arduino_mkrwan1300.svg) 
