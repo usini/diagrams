@@ -30,6 +30,10 @@ by [µsini](https://twitter/m4dnerd)
 
  #### [TOP](#table-of-contents) 
 # Boards
+
+### cheap_yellow_display.svg
+![cheap_yellow_display.svg](Boards/CheapYellowDisplay.svg)
+
 ### prototyping_board_90_70mm.svg
 ![prototyping_board_90_70mm.svg](Boards/prototyping_board_90_70mm.svg) 
 ### raspberrypi_zero.svg
