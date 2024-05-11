@@ -245,6 +245,8 @@ by [µsini](https://twitter/m4dnerd)
 ### accelerometer_9_Axis_gyro__magnetometer_mpu_9250.svg
 ![accelerometer_9_Axis_gyro__magnetometer_mpu_9250.svg](Sensors/accelerometer/accelerometer_9_Axis_gyro__magnetometer_mpu_9250.svg) 
 ## Sensors/clock
+### clock_ds3231.svg
+![ds3231_classic.svg](Sensors/clock/ds3231_classic.svg) 
 ### clock_ds3231_for_pi.svg
 ![clock_ds3231_for_pi.svg](Sensors/clock/clock_ds3231_for_pi.svg) 
 ### clock_tinyrtc_I2C_modules.svg
