@@ -308,5 +308,7 @@ by [µsini](https://twitter/m4dnerd)
 ![WIRE_CUTTER.svg](Tools/WIRE_CUTTER.svg) 
 ### KNIFE.svg
 ![Knife.svg](Tools/KNIFE.svg)
+### hotair_gun.svg
+![hotair_gun.svg](Tools/hotair_gun.svg)
 
  #### [TOP](#table-of-contents) 
