@@ -310,5 +310,6 @@ by [µsini](https://twitter/m4dnerd)
 ![Knife.svg](Tools/KNIFE.svg)
 ### hotair_gun.svg
 ![hotair_gun.svg](Tools/hotair_gun.svg)
-
+### Flux_Paste.svg
+![FLUX_PASTE.svg](Tools/FLUX_PASTE.svg)
  #### [TOP](#table-of-contents) 
