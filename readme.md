@@ -312,4 +312,8 @@ by [µsini](https://twitter/m4dnerd)
 ![hotair_gun.svg](Tools/hotair_gun.svg)
 ### Flux_Paste.svg
 ![FLUX_PASTE.svg](Tools/FLUX_PASTE.svg)
+### tweezers.svg
+![tweezers.svg](Tools/tweezers.svg)
+ 
  #### [TOP](#table-of-contents) 
+ 
