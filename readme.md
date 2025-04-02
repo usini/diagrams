@@ -58,6 +58,8 @@ by [µsini](https://twitter/m4dnerd)
 ## Boards/esp32
 ### doit_esp32.svg
 ![doit_esp32.svg](Boards/esp32/doit_esp32.svg) 
+### seeedstudio_xiao_esp32c3.svg
+![doit_esp32.svg](Boards/esp32/seeedstudio_xiao_esp32c3.svg) 
 ### wemos_esp32_lite.svg
 ![wemos_esp32_lite.svg](Boards/esp32/wemos_esp32_lite.svg) 
 ### wemos_lolin32.svg
